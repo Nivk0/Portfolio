@@ -37,13 +37,13 @@
 			link: '/hire'
 		},
 		{
-			name: 'Blogs',
-			link: 'https://zemerik.hashnode.dev'
+			name: 'Projects',
+			link: '/#projects' 
 		},
 		{
-			name: 'Use Template',
-			link: 'https://github.com/Zemerik/Portfolio-Template'
-		}
+			name: 'Contact Me',
+			link: '/#contact' 
+		},
 	];
 
 	let activePagePath = $derived($page.url.pathname);

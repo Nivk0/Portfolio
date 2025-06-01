@@ -14,22 +14,40 @@
 
 	const experiences: Experience[] = [
 		{
-			title: 'Frontend Web Developer',
-			company: 'Self - Employed',
-			type: 'Freelance',
-			startDate: '2023',
-			endDate: null,
-			location: 'Remote',
-			skills: ['ReactJS', 'NextJS', 'NodeJS', 'Typescript/Javascript', 'Tailwind', 'Github', 'Git']
+			title: 'Software Engineer Intern',
+			company: 'Paycom',
+			type: 'On Site',
+			startDate: 'May 2025',
+			endDate: 'August 2025',
+			location: 'Irving, Texas',
+			skills: ['ReactJS', 'C#', 'Docker', 'Git']
 		},
 		{
-			title: 'VexIQ Team Manager',
-			company: 'Hillcrest Christian College',
-			type: 'Extra - Curricular',
-			startDate: '2022',
-			endDate: 2023,
-			location: 'Melbourne',
-			skills: ['C', 'C+', 'C++', 'Python']
+			title: 'Software Engineer Intern',
+			company: 'Constellation Software Inc - Perseus Group',
+			type: 'Hybrid',
+			startDate: 'Sept 2023',
+			endDate: 'May 2025',
+			location: 'Plano, Texas',
+			skills: ['AngularJS', 'TypeScript', '.Net', 'Microsoft Azure', 'C#', 'SQL']
+		},
+		{
+			title: 'Software Developer and Project Manager',
+			company: 'Kellerman Foundation',
+			type: 'On Site',
+			startDate: 'Aug 2023',
+			endDate: 'Jan 2024',
+			location: 'Richardson, Texas',
+			skills: ['MySQL', 'JavaScript', 'Node.js', 'Apache', 'HTML', 'CSS']
+		},
+		{
+			title: 'Software Developer Internship',
+			company: 'Black Knight Financial Services',
+			type: 'Hybrid',
+			startDate: 'Aug 2022',
+			endDate: 'May 2023',
+			location: 'Jacksonville, Florida',
+			skills: ['AngularJS', 'TypeScript', '.Net', 'Microsoft Azure', 'C#', 'SQL']
 		},
 	];
 </script>

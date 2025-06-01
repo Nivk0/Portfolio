@@ -29,24 +29,24 @@
 		<h2 class="text-3xl opacity-60 font-light">Hi, I'm</h2>
 
 		<h1 class="text-6xl my-4 font-medium text-white md:ml-0 ml-4 md:max-w-none max-w-[260px] md:text-left text-center">
-			<TypingComponent text="Hemang," />
+			<TypingComponent text="Nivedh Koya," />
 		</h1>
 
-		<h2 class="text-2xl opacity-40">Frontend Developer</h2>
+		<h2 class="text-2xl opacity-40">Software Developer | AI Researcher</h2>
 
 		<p>
-			<a href = "https://zemeriksresume.vercel.app" target = "_blank" class="btn btn-primary mt-4" use:ripple>Resume</a>
-			<a href = "https://zemeriksterminal.vercel.app" target = "_blank" class = "btn btn-primary mt-4" use:ripple>Terminal</a>
-			<a href = "https://zemerikslinks.vercel.app" target = "_blank" class = "btn btn-primary mt-4" use:ripple>Linktree</a>
+			<a href="src/assets/resume.pdf" target="_blank" class="btn btn-primary mt-4" use:ripple>Resume</a>
+			<a href = "https://github.com/Nivk0" target = "_blank" class = "btn btn-primary mt-4" use:ripple>Github</a>
+			<a href = "https://www.linkedin.com/in/nivedh-koya/" target = "_blank" class = "btn btn-primary mt-4" use:ripple>LinkedIn</a>
 		</p>
 	</div>
 
 	<div class="col-span-1 mt-10 md:mt-auto flex justify-center md:justify-end">
 		<img
-			src="https://avatars.githubusercontent.com/u/133865660?v=4"
+			src="src/assets/pic.jpg"
 			alt="Profile"
 			style="animation-duration: 20s;"
-			class="rounded-full w-48 h-48 animate-spin"
+			class="rounded-full w-50 h-60"
 		/>
 	</div>
 </div>
@@ -82,17 +82,19 @@
 		<div class="bg-base-200 rounded-xl p-6 flex-1">
 			<h2 class="text-base-content/40 text-2xl mb-2 font-medium">From</h2>
 
-			<p class="text-3xl font-bold">Melbourne, Australia</p>
+			<p class="text-3xl font-bold">Dallas, Texas</p>
 		</div>
 	</div>
 
 	<div
-		class="md:col-span-2 col-span-1 leading-8 bg-base-300 px-5 py-4 rounded-xl text-lg relative z-10"
+		class="md:col-span-2 col-span-1 leading-8 bg-base-300 px-5 py-4 rounded-xl text-sm relative z-10"
 	>
 		<p>
-			As a 15-year-old high school student, I am driven by an unwavering passion for pursuing a career as a front-end software developer. 
-			With a knack for transforming concepts into tangible realities, I possess a strong command of Frontend & Backend Development along with several API's, 
-			enabling me to bring ideas to life through coding expertise.
+			I am a fast-track Computer Science student at the University of Texas at Dallas, pursuing both my Bachelor's and Master's degrees, with an expected graduation date of May 2026. With over three years of full-stack development experience, I’ve built a strong foundation in both front-end and back-end technologies, contributing to several end-to-end software solutions.
+
+			My academic and research interests are rooted in the intersection of Artificial Intelligence and healthcare—particularly in using AI to support early detection of diseases like Parkinson’s, which lack straightforward diagnostic tests. I am also passionate about AI-driven image translation and climate prediction systems, where machine learning models are applied to tackle real-world challenges through advanced data analysis and predictive modeling.
+
+			I'm always eager to explore how intelligent systems can create meaningful impact across disciplines.
 		</p>
 
 	</div>
@@ -107,7 +109,7 @@
 <div class=" bg-base-200 p-4 rounded-lg leading-8" id="contact">
 	<p>
 		Contact me at <a href="mailto:zemeriky@gmail.com" class="link-hover">
-			zemerikY@gmail.com</a
-		>. Also, you can find me on social media using the links below.
+			nivedh.koya@gmail.com </a
+		> or you can reach out me on the social media at the top.
 	</p>
 </div>

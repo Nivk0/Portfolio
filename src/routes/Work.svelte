@@ -6,29 +6,39 @@
 		link: string;
 	}[] = [
 		{
-			name: 'Portfolio',
-			description: 'My Professional Portfolio',
-			link: 'https://github.com/Zemerik/Portfolio-v2',
+			name: 'Quizer-NLP AI',
+			description: 'AI-Powered and Rag-based Personalized Study Quiz Generator',
+			link: 'https://github.com/spevenexe/S25-NLP-project',
+		},
+				{
+			name: 'Climate Prediction AI',
+			description: 'Interactive Climate Forecasts to Visualize and Understand Weather Trends',
+			link: 'https://github.com/Angel-CSC/climateProject/tree/main',
 		},
 		{
-			name: 'ZemProfiles',
-			description: 'Discover & Connect with Developers',
-			link: 'https://github.com/Zemerik/ZemProfiles',
+			name: 'Image-Transfer',
+			description: 'CycleGan and Semi-Supervised learning based image translation model ',
+			link: 'https://github.com/ACM-Research/Image-Transfer',
 		},
 		{
-			name: 'ZemPosts',
-			description: 'Post & Connect with Developers',
-			link: 'https://github.com/Zemerik/ZemPosts'
+			name: 'MoodAway',
+			description: 'Full Stack Mobile Journaling platform with personalized article recommendations',
+			link: 'https://github.com/acm-projects/MoodAway'
 		},
 		{
-			name: 'ZemShowcase',
-			description: 'Showcase & Connect with Developers',
-			link: 'https://github.com/Zemerik/ZemShowcase'
+			name: 'ReviewZ',
+			description: 'Full Stack Sentimental Amazon review analyzer based on geographic locations',
+			link: 'https://github.com/Nivk0/ReviewZ'
+		},
+		{
+			name: 'AirAssist',
+			description: 'Full Stack application to aid with navigating the airport',
+			link: 'https://github.com/Nivk0/AirAssist'
 		},
 	];
 </script>
 
-<div class="grid mt-4 gap-4 sm:grid-cols-2">
+<div id="projects" class="grid mt-4 gap-4 sm:grid-cols-2">
 	{#each MAJOR as project}
 		<div
 			class="col-span-1 overflow-hidden transition-all card bg-base-100 shadow-xl border border-base-300"

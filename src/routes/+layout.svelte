@@ -23,7 +23,6 @@
 <SvelteSeo
 	openGraph={{
 		type: 'website',
-		url: 'https://zemerik.vercel.app',
 		title: 'Hemang Yadav (Zemerik)',
 		images: [
 			{
@@ -33,12 +32,6 @@
 				alt: 'Profile Picture'
 			}
 		]
-	}}
-	twitter={{
-		card: 'summary_large_image',
-		site: '@Zemerik_X',
-		title: 'Hemang Yadav (Zemerik)',
-		image: 'https://x.com/Zemerik_X/photo'
 	}}
 />
 

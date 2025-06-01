@@ -9,32 +9,29 @@
 		{
 			name: 'GitHub',
 			icon: 'uiw:github',
-			link: 'https://github.com/Zemerik'
+			link: 'https://github.com/Nivk0'
 		},
 		{
 			name: 'X',
 			icon: 'akar-icons:twitter-fill',
-			link: 'https://x.com/Zemerik_X'
 		},
 		{
 			name: 'DEV',
 			icon: 'material-symbols:logo-dev',
-			link: 'https://dev.to/zemerik'
 		},
 		{
 			name: 'LinkedIn',
 			icon: 'akar-icons:linkedin-fill',
-			link: 'https://www.linkedin.com/in/zemerik/'
+			link: 'https://www.linkedin.com/in/nivedh-koya/'
 		},
 		{
 			name: 'Instagram',
 			icon: 'akar-icons:instagram-fill',
-			link: 'https://instagram.com/Zemerik_Insta'
+			link: 'https://www.instagram.com/nivedh_k1/#'
 		},
 		{
 			name: 'Discord',
 			icon: 'akar-icons:discord-fill',
-			link: 'https://discord.com/users/1018816958587748383'
 		}
 	];
 
@@ -50,14 +47,7 @@
 </script>
 
 <div class="mt-10 font-medium flex md:flex-row flex-col items-center justify-center">
-	<div class="flex-1">
-		Check out the
-		<a
-			href="https://github.com/Zemerik/Portfolio-Template"
-			target="_blank"
-			class="text-blue-500 hover:underline">source code</a
-		>.
-	</div>
+
 
 	<div class="my-4">
 		{#each socialArr as social}
