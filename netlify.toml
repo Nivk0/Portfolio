@@ -1,3 +1,10 @@
 [build]
-	command = "npm run build"
-	publish = "build"
+    command = "npm run build"
+    publish = "build"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
+  RUBY_VERSION = "3.2.2"
+  GO_VERSION = "1.21"
+  PHP_VERSION = "8.2"
+  NODE_VERSION = "18"

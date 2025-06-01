@@ -60,12 +60,12 @@ declare module '$env/static/private' {
 	export const MSYSTEM_CHOST: string;
 	export const MSYSTEM_PREFIX: string;
 	export const NODE: string;
+	export const NODE_ENV: string;
 	export const npm_command: string;
 	export const npm_config_cache: string;
 	export const npm_config_globalconfig: string;
 	export const npm_config_global_prefix: string;
 	export const npm_config_init_module: string;
-	export const npm_config_legacy_peer_deps: string;
 	export const npm_config_local_prefix: string;
 	export const npm_config_node_gyp: string;
 	export const npm_config_noproxy: string;
@@ -77,15 +77,8 @@ declare module '$env/static/private' {
 	export const npm_lifecycle_event: string;
 	export const npm_lifecycle_script: string;
 	export const npm_node_execpath: string;
-	export const npm_package_dev: string;
-	export const npm_package_dev_optional: string;
-	export const npm_package_engines_node: string;
-	export const npm_package_integrity: string;
 	export const npm_package_json: string;
 	export const npm_package_name: string;
-	export const npm_package_optional: string;
-	export const npm_package_peer: string;
-	export const npm_package_resolved: string;
 	export const npm_package_version: string;
 	export const NUMBER_OF_PROCESSORS: string;
 	export const OneDrive: string;
@@ -129,6 +122,7 @@ declare module '$env/static/private' {
 	export const USERNAME: string;
 	export const USERPROFILE: string;
 	export const VBOX_HWVIRTEX_IGNORE_SVM_IN_USE: string;
+	export const VIPSHOME: string;
 	export const WINDIR: string;
 	export const _: string;
 }
@@ -196,12 +190,12 @@ declare module '$env/dynamic/private' {
 		MSYSTEM_CHOST: string;
 		MSYSTEM_PREFIX: string;
 		NODE: string;
+		NODE_ENV: string;
 		npm_command: string;
 		npm_config_cache: string;
 		npm_config_globalconfig: string;
 		npm_config_global_prefix: string;
 		npm_config_init_module: string;
-		npm_config_legacy_peer_deps: string;
 		npm_config_local_prefix: string;
 		npm_config_node_gyp: string;
 		npm_config_noproxy: string;
@@ -213,15 +207,8 @@ declare module '$env/dynamic/private' {
 		npm_lifecycle_event: string;
 		npm_lifecycle_script: string;
 		npm_node_execpath: string;
-		npm_package_dev: string;
-		npm_package_dev_optional: string;
-		npm_package_engines_node: string;
-		npm_package_integrity: string;
 		npm_package_json: string;
 		npm_package_name: string;
-		npm_package_optional: string;
-		npm_package_peer: string;
-		npm_package_resolved: string;
 		npm_package_version: string;
 		NUMBER_OF_PROCESSORS: string;
 		OneDrive: string;
@@ -265,6 +252,7 @@ declare module '$env/dynamic/private' {
 		USERNAME: string;
 		USERPROFILE: string;
 		VBOX_HWVIRTEX_IGNORE_SVM_IN_USE: string;
+		VIPSHOME: string;
 		WINDIR: string;
 		_: string;
 		[key: `PUBLIC_${string}`]: undefined;
