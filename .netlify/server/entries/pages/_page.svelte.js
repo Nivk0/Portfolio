@@ -95,7 +95,7 @@ function _page($$payload, $$props) {
 
 			I'm always eager to explore how intelligent systems can create meaningful impact across disciplines.</p></div></div> <h2 class="mt-16 mb-8 text-2xl font-semibold">Projects</h2> `;
   Work($$payload);
-  $$payload.out += `<!----> <h2 class="mt-16 mb-8 text-2xl font-semibold">Contact me</h2> <div class="bg-base-200 p-4 rounded-lg leading-8" id="contact"><p>Contact me at <a href="mailto:zemeriky@gmail.com" class="link-hover">nivedh.koya@gmail.com</a> or you can reach out me on the social media at the top.</p></div>`;
+  $$payload.out += `<!----> <h2 class="mt-16 mb-8 text-2xl font-semibold">Contact me</h2> <div class="bg-base-200 p-4 rounded-lg leading-8" id="contact"><p>Contact me at <a href="mailto:zemeriky@gmail.com" class="link-hover">nivedh.koya@gmail.com</a> or you can reach out to me on the social media below.</p></div>`;
   pop();
 }
 export {

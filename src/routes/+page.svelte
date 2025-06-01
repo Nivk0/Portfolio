@@ -110,6 +110,6 @@
 	<p>
 		Contact me at <a href="mailto:zemeriky@gmail.com" class="link-hover">
 			nivedh.koya@gmail.com </a
-		> or you can reach out me on the social media at the top.
+		> or you can reach out to me on the social media below.
 	</p>
 </div>
