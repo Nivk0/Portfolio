@@ -28,7 +28,7 @@
             {
                 url: '/profile.jpg', 
                 width: 300,
-                height: 500,
+                height: 450,
                 alt: 'Profile Picture'
             }
         ]
