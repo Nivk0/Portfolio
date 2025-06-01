@@ -21,18 +21,18 @@
 </script>
 
 <SvelteSeo
-	openGraph={{
-		type: 'website',
-		title: 'Nivedh Koya',
-		images: [
-			{
-				url: 'https://avatars.githubusercontent.com/u/133865660?v=4',
-				width: 800,
-				height: 600,
-				alt: 'Profile Picture'
-			}
-		]
-	}}
+    openGraph={{
+        type: 'website',
+        title: 'Nivedh Koya',
+        images: [
+            {
+                url: '/profile.jpg', 
+                width: 300,
+                height: 500,
+                alt: 'Profile Picture'
+            }
+        ]
+    }}
 />
 
 <svelte:head>
