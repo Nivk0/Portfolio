@@ -35,7 +35,7 @@
 		<h2 class="text-2xl opacity-40">Software Developer | AI Researcher</h2>
 
 		<p>
-			<a href="src/assets/resume.pdf" target="_blank" class="btn btn-primary mt-4" use:ripple>Resume</a>
+			<a href="/resume.pdf" target="_blank" class="btn btn-primary mt-4" use:ripple>Resume</a>
 			<a href = "https://github.com/Nivk0" target = "_blank" class = "btn btn-primary mt-4" use:ripple>Github</a>
 			<a href = "https://www.linkedin.com/in/nivedh-koya/" target = "_blank" class = "btn btn-primary mt-4" use:ripple>LinkedIn</a>
 		</p>
@@ -43,7 +43,7 @@
 
 	<div class="col-span-1 mt-10 md:mt-auto flex justify-center md:justify-end">
 		<img
-			src="src/assets/pic.jpg"
+			src="/pic.jpg"
 			alt="Profile"
 			style="animation-duration: 20s;"
 			class="rounded-full w-50 h-60"
