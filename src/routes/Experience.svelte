@@ -63,6 +63,9 @@
 			<p class="text-sm text-base-content/70 mb-2">
 				{experience.startDate} - {experience.endDate ? experience.endDate : 'Present'}
 			</p>
+			<p class="text-sm text-base-content/70 mb-2">
+				{experience.company}
+			</p>
 			<p class="text-sm text-base-content/70 mb-2">{experience.location}</p>
 			{#if experience.description}
 				<p class="text-sm text-base-content/80 mb-2">{experience.description}</p>

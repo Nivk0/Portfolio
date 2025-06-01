@@ -23,7 +23,7 @@
 <SvelteSeo
 	openGraph={{
 		type: 'website',
-		title: 'Hemang Yadav (Zemerik)',
+		title: 'Nivedh Koya',
 		images: [
 			{
 				url: 'https://avatars.githubusercontent.com/u/133865660?v=4',
