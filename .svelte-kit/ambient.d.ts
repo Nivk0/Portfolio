@@ -32,6 +32,7 @@ declare module '$env/static/private' {
 	export const ALLUSERSPROFILE: string;
 	export const AMDRMPATH: string;
 	export const APPDATA: string;
+	export const COLOR: string;
 	export const COMMONPROGRAMFILES: string;
 	export const CommonProgramW6432: string;
 	export const COMPUTERNAME: string;
@@ -39,6 +40,7 @@ declare module '$env/static/private' {
 	export const CONFIG_SITE: string;
 	export const DISPLAY: string;
 	export const DriverData: string;
+	export const EDITOR: string;
 	export const EXEPATH: string;
 	export const HOME: string;
 	export const HOMEDRIVE: string;
@@ -61,12 +63,17 @@ declare module '$env/static/private' {
 	export const NODE_ENV: string;
 	export const NODE_PATH: string;
 	export const npm_command: string;
-	export const npm_config_frozen_lockfile: string;
+	export const npm_config_cache: string;
+	export const npm_config_globalconfig: string;
+	export const npm_config_global_prefix: string;
+	export const npm_config_init_module: string;
+	export const npm_config_local_prefix: string;
 	export const npm_config_node_gyp: string;
-	export const npm_config_registry: string;
+	export const npm_config_noproxy: string;
+	export const npm_config_npm_version: string;
+	export const npm_config_prefix: string;
+	export const npm_config_userconfig: string;
 	export const npm_config_user_agent: string;
-	export const npm_config_verify_deps_before_run: string;
-	export const npm_config__jsr_registry: string;
 	export const npm_execpath: string;
 	export const npm_lifecycle_event: string;
 	export const npm_lifecycle_script: string;
@@ -75,7 +82,6 @@ declare module '$env/static/private' {
 	export const npm_package_name: string;
 	export const npm_package_version: string;
 	export const NUMBER_OF_PROCESSORS: string;
-	export const OLDPWD: string;
 	export const OneDrive: string;
 	export const OneDriveConsumer: string;
 	export const ORIGINAL_PATH: string;
@@ -88,7 +94,6 @@ declare module '$env/static/private' {
 	export const PKG_CONFIG_SYSTEM_INCLUDE_PATH: string;
 	export const PKG_CONFIG_SYSTEM_LIBRARY_PATH: string;
 	export const PLINK_PROTOCOL: string;
-	export const PNPM_SCRIPT_SRC_DIR: string;
 	export const PROCESSOR_ARCHITECTURE: string;
 	export const PROCESSOR_IDENTIFIER: string;
 	export const PROCESSOR_LEVEL: string;
@@ -120,6 +125,7 @@ declare module '$env/static/private' {
 	export const VBOX_HWVIRTEX_IGNORE_SVM_IN_USE: string;
 	export const VIPSHOME: string;
 	export const WINDIR: string;
+	export const _: string;
 }
 
 /**
@@ -157,6 +163,7 @@ declare module '$env/dynamic/private' {
 		ALLUSERSPROFILE: string;
 		AMDRMPATH: string;
 		APPDATA: string;
+		COLOR: string;
 		COMMONPROGRAMFILES: string;
 		CommonProgramW6432: string;
 		COMPUTERNAME: string;
@@ -164,6 +171,7 @@ declare module '$env/dynamic/private' {
 		CONFIG_SITE: string;
 		DISPLAY: string;
 		DriverData: string;
+		EDITOR: string;
 		EXEPATH: string;
 		HOME: string;
 		HOMEDRIVE: string;
@@ -186,12 +194,17 @@ declare module '$env/dynamic/private' {
 		NODE_ENV: string;
 		NODE_PATH: string;
 		npm_command: string;
-		npm_config_frozen_lockfile: string;
+		npm_config_cache: string;
+		npm_config_globalconfig: string;
+		npm_config_global_prefix: string;
+		npm_config_init_module: string;
+		npm_config_local_prefix: string;
 		npm_config_node_gyp: string;
-		npm_config_registry: string;
+		npm_config_noproxy: string;
+		npm_config_npm_version: string;
+		npm_config_prefix: string;
+		npm_config_userconfig: string;
 		npm_config_user_agent: string;
-		npm_config_verify_deps_before_run: string;
-		npm_config__jsr_registry: string;
 		npm_execpath: string;
 		npm_lifecycle_event: string;
 		npm_lifecycle_script: string;
@@ -200,7 +213,6 @@ declare module '$env/dynamic/private' {
 		npm_package_name: string;
 		npm_package_version: string;
 		NUMBER_OF_PROCESSORS: string;
-		OLDPWD: string;
 		OneDrive: string;
 		OneDriveConsumer: string;
 		ORIGINAL_PATH: string;
@@ -213,7 +225,6 @@ declare module '$env/dynamic/private' {
 		PKG_CONFIG_SYSTEM_INCLUDE_PATH: string;
 		PKG_CONFIG_SYSTEM_LIBRARY_PATH: string;
 		PLINK_PROTOCOL: string;
-		PNPM_SCRIPT_SRC_DIR: string;
 		PROCESSOR_ARCHITECTURE: string;
 		PROCESSOR_IDENTIFIER: string;
 		PROCESSOR_LEVEL: string;
@@ -245,6 +256,7 @@ declare module '$env/dynamic/private' {
 		VBOX_HWVIRTEX_IGNORE_SVM_IN_USE: string;
 		VIPSHOME: string;
 		WINDIR: string;
+		_: string;
 		[key: `PUBLIC_${string}`]: undefined;
 		[key: `${string}`]: string | undefined;
 	}
