@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align = "center">
 
 <img src = "public/logo.png" style = "height:250px;width:250px">
@@ -147,3 +148,6 @@ For any kind of support or inforrmation, you are free to join our **Discord Serv
   <br>
   Made with 💖 by <a href = "https://github.com/Zemerik">Hemang Yadav (Zemerik)</a>
 </p>
+=======
+# Portfolio
+>>>>>>> 0390a9c43e2de58dd9fce5eae0cc4319082e4df7
