@@ -81,7 +81,7 @@ function _page($$payload, $$props) {
   onDestroy(() => {
     clearInterval(refreshInterval);
   });
-  Svelte_seo($$payload, { title: "Easy Portfolio Template" });
+  Svelte_seo($$payload, { title: "Nivedh Koya" });
   $$payload.out += `<!----> <div class="md:flex mt-2 md:mt-20 relative z-10"><div class="flex-1 flex flex-col justify-center md:items-start items-center"><h2 class="text-3xl opacity-60 font-light">Hi, I'm</h2> <h1 class="text-6xl my-4 font-medium text-white md:ml-0 ml-4 md:max-w-none max-w-[260px] md:text-left text-center">`;
   TypingComponent($$payload, { text: "Nivedh Koya," });
   $$payload.out += `<!----></h1> <h2 class="text-2xl opacity-40">Software Developer | AI Researcher</h2> <p><a href="/resume.pdf" target="_blank" class="btn btn-primary mt-4">Resume</a> <a href="https://github.com/Nivk0" target="_blank" class="btn btn-primary mt-4">Github</a> <a href="https://www.linkedin.com/in/nivedh-koya/" target="_blank" class="btn btn-primary mt-4">LinkedIn</a></p></div> <div class="col-span-1 mt-10 md:mt-auto flex justify-center md:justify-end"><img src="/pic.jpg" alt="Profile" style="animation-duration: 20s;" class="rounded-full w-50 h-60"></div></div> <h2 class="mt-32 mb-8 text-2xl font-semibold">About me</h2> <div class="grid gap-4 md:grid-cols-3 grid-cols-1 mb-4"><div class="col-span-1 flex flex-col gap-4"><div class="bg-base-200 flex-1 rounded-xl p-6 relative transition-all group-hover:translate-y-2 group-hover:scale-95"><span class="text-base-content/40 text-2xl mb-4 block font-medium">Spotify</span> `;

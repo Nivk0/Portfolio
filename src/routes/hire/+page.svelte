@@ -3,7 +3,7 @@
 	import SvelteSeo from 'svelte-seo';
 </script>
 
-<SvelteSeo title="Easy Portfolio Template" />
+<SvelteSeo title="Nivedh Koya" />
 
 <p class="mb-4 text-lg">Experience</p>
 

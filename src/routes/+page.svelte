@@ -22,7 +22,7 @@
 	});
 </script>
 
-<SvelteSeo title="Easy Portfolio Template" />
+<SvelteSeo title="Nivedh Koya" />
 
 <div class="md:flex mt-2 md:mt-20 relative z-10">
 	<div class="flex-1 flex flex-col justify-center md:items-start items-center">

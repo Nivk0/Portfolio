@@ -77,7 +77,7 @@ function Experience($$payload) {
   $$payload.out += `<!--]-->`;
 }
 function _page($$payload) {
-  Svelte_seo($$payload, { title: "Easy Portfolio Template" });
+  Svelte_seo($$payload, { title: "Nivedh Koya" });
   $$payload.out += `<!----> <p class="mb-4 text-lg">Experience</p> `;
   Experience($$payload);
   $$payload.out += `<!----> <a href="/#contact" class="btn btn-primary">Contact me</a> <a href="/resume.pdf" class="btn btn-primary" target="_blank">Resume</a>`;
