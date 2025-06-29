@@ -100,11 +100,11 @@ I'm a fast-track Computer Science student at the University of Texas at Dallas, 
 
 <Work />
 
-<h2 class="mt-16 mb-8 text-2xl font-semibold">Contact me</h2>
+<h2 class="mt-16 mb-8 text-2xl font-semibold">Contact Me</h2>
 
 <div class=" bg-base-200 p-4 rounded-lg leading-8" id="contact">
 	<p>
-		Contact me at <a href="mailto:zemeriky@gmail.com" class="link-hover">
+		Contact Me at <a href="nivedh.koya@gmail.com" class="link-hover">
 			nivedh.koya@gmail.com </a
 		> or you can reach out to me on the social media below.
 	</p>

@@ -9,5 +9,5 @@
 
 <Experience />
 
-<a href="/#contact" class="btn btn-primary">Contact me</a>
+<a href="/#contact" class="btn btn-primary">Contact Me</a>
 <a href="/resume.pdf" class="btn btn-primary" target="_blank">Resume</a>
