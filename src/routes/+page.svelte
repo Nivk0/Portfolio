@@ -29,7 +29,7 @@
 		<h2 class="text-3xl opacity-60 font-light">Hi, I'm</h2>
 
 		<h1 class="text-6xl my-4 font-medium text-white md:ml-0 ml-4 md:max-w-none max-w-[260px] md:text-left text-center">
-			<TypingComponent text="Nivedh Koya," />
+			<TypingComponent text="Nivedh Koya" />
 		</h1>
 
 		<h2 class="text-2xl opacity-40">Software Developer | AI Researcher</h2>
@@ -90,11 +90,7 @@
 		class="md:col-span-2 col-span-1 leading-8 bg-base-300 px-5 py-4 rounded-xl text-sm relative z-10"
 	>
 		<p>
-			I am a fast-track Computer Science student at the University of Texas at Dallas, pursuing both my Bachelor's and Master's degrees, with an expected graduation date of May 2026. With over three years of full-stack development experience, I’ve built a strong foundation in both front-end and back-end technologies, contributing to several end-to-end software solutions.
-
-			My academic and research interests are rooted in the intersection of Artificial Intelligence and healthcare—particularly in using AI to support early detection of diseases like Parkinson’s, which lack straightforward diagnostic tests. I am also passionate about AI-driven image translation and climate prediction systems, where machine learning models are applied to tackle real-world challenges through advanced data analysis and predictive modeling.
-
-			I'm always eager to explore how intelligent systems can create meaningful impact across disciplines.
+I'm a fast-track Computer Science student at the University of Texas at Dallas, currently pursuing my Master’s degree in Computer Science with a focus on the Intelligent Systems track, and I expect to graduate in May 2026. I completed my Bachelor's degree in Computer Science in May 2025. I have over three years of full-stack development experience, with a strong foundation in both front-end and back-end technologies, and have contributed to several end-to-end software projects. My interests lie at the intersection of Artificial Intelligence and healthcare, particularly in using AI to support early detection of diseases like Parkinson’s, which are difficult to diagnose through traditional methods. I’m also passionate about AI-driven image translation and climate prediction, where machine learning is used to solve real-world problems through advanced data analysis and modeling. I’m always eager to explore how intelligent systems can make a meaningful impact across different fields.
 		</p>
 
 	</div>
