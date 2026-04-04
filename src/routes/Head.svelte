@@ -89,7 +89,9 @@
 		transition:fly={{ duration: 200, x: 10, easing: cubicInOut }}
 	>
 		<button
+			type="button"
 			class="absolute top-4 right-4 p-2 rounded-full bg-white/5"
+			aria-label="Close menu"
 			onclick={() => (menuOpen = false)}
 		>
 		</button>
