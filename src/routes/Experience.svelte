@@ -54,8 +54,8 @@
       title: "Software Developer Intern",
       company: "Black Knight, inc.",
       type: "Hybrid",
-      startDate: "Aug 2022",
-      endDate: "May 2023",
+      startDate: "May 2023",
+      endDate: "Aug 2023",
       location: "Jacksonville, Florida",
       skills: [
         "AngularJS",
