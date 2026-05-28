@@ -14,11 +14,11 @@
 
 	const experiences: Experience[] = [
   {
-    title: "Software Engineering AI Fellow",
+    title: "Software Engineering AI Fellow (Contractor)",
     company: "Handshake AI",
     type: "Remote",
     startDate: "Sept 2025",
-    endDate: "Feb 2026",
+    endDate: "Jan 2026",
     location: "San Francisco, California",
     skills: [" Python, Java, Pandas, NumPy TensorFlow, PyTorch, Scikit-learn"],
     description: "As a Software Engineering AI Fellow at Handshake AI from September 2025 to February 2026, I worked part-time in San Francisco, CA. I developed Python-based pipelines using tools like Pandas, NumPy, TensorFlow, PyTorch, and Scikit-learn to validate and improve machine learning models. These models aimed to speed up software engineering workflows by 20%. I also analyzed LLM-generated outputs to find software-related errors. I made data-driven improvements that boosted response reliability by 25%, contributing to stronger and more efficient AI-assisted development processes."
@@ -35,7 +35,7 @@
     },
     {
       title: "Software Engineer Intern",
-      company: "Constellation Software Inc - Perseus Group",
+      company: "Optimal Blue",
       type: "Hybrid",
       startDate: "Sept 2023",
       endDate: "May 2025",
@@ -52,23 +52,7 @@
     },
     {
       title: "Software Developer Intern",
-      company: "Bixtech LLC",
-      type: "Remote",
-      startDate: "Jan 2024",
-      endDate: "June 2024",
-      location: "Plano, Texas",
-      skills: [
-        "Java",
-        "Spigot API",
-        "SQL",
-        "MangoDB",
-        "HikariCP",
-      ],
-      description: "Developed a Minecraft plugin using Java and the Spigot API. Worked with clients to work on contacting projects to gather requirements and implement features."
-    },
-    {
-      title: "Software Developer Intern",
-      company: "Black Knight Financial Services",
+      company: "Black Knight, inc.",
       type: "Hybrid",
       startDate: "Aug 2022",
       endDate: "May 2023",
